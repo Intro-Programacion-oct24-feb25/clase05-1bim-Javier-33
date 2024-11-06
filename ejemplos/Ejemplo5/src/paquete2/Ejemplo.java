@@ -32,7 +32,7 @@ public class Ejemplo {
         double gradosCentigrados;
         double gradosFarenheit;
         double gradosKelvin;
-        
+        //hasta aqui examen
         System.out.println("Ingrese el valor de grados centı́grados");
         gradosCentigrados = entrada.nextDouble();
         
